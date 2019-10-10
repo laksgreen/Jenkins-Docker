@@ -1,1 +1,1 @@
-~Jenkins Master in Docker Container~
+Jenkins Master in Docker Container
